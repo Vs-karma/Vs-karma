@@ -56,5 +56,5 @@ I build scalable **mobile and web products** with a strong focus on
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your@email.com
+- ![LinkedIn](https://www.linkedin.com/in/saurabh-vishwakarma-bb90051bb)
+- Email: saurabhvishwakarma745@gmail.com

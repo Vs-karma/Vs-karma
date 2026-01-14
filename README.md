@@ -45,16 +45,11 @@ I build scalable **mobile and web products** with a strong focus on
 
 ---
 
-## 📌 Featured Projects
-⬇️ Check out my pinned repositories below ⬇️
-
----
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
 
 ---
 
 ## 📫 Connect With Me
-- ![LinkedIn](https://www.linkedin.com/in/saurabh-vishwakarma-bb90051bb)
+- [LinkedIn](https://www.linkedin.com/in/saurabh-vishwakarma-bb90051bb)
 - Email: saurabhvishwakarma745@gmail.com

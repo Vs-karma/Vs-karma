@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi, I'm Saurabh Vishwakarma 👋
-Full-Stack Developer<br>Flutter • Spring Boot • React<br><br>I build scalable mobile and web products with a strong focus on<br>eCommerce platforms, system design, and clean architecture.
+Full-Stack Developer<br>Flutter • Spring Boot • React • MySQL<br><br>I build scalable mobile and web products with a strong focus on<br>eCommerce platforms, system design, and clean architecture.
 
 
 ## 🌐 Socials:
